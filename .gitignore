@@ -1,7 +1,0 @@
-# ==========================================
-# Global Ignores (Applies to all modpacks)
-# ==========================================
-# Ignore standard heavy assets and binary distributions
-**/overrides/mods/
-**/overrides/resourcepacks/
-**/overrides/shaderpacks/
