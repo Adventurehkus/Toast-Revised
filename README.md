@@ -29,11 +29,6 @@ We believe Minecraft should look clean, intuitive, and modern. Toast Revised fea
 
 ---
 
-### 💬 Connect with the Community!
-Got questions, suggestions, or want to show off your FPS metrics? Come hang out in our official [💬 Toast Revised Discussions Forum](https://github.com/Adventurehkus/Toast-Revised/discussions/categories/-announcements)! 
-
----
-
 ## ⚖️ Legal & Permissions
 
 Toast Revised is built with absolute respect for the incredible creators in the Minecraft modding ecosystem.
@@ -41,6 +36,13 @@ Toast Revised is built with absolute respect for the incredible creators in the 
 * **Credits:** All mod, resource pack, shader, and asset authors are fully credited within our related project documentation and specialized override assets credit in our official changelogs.
 * **Creator Support:** We highly encourage our players to visit the project pages of the individual mod and texture creators to support their brilliant work.
 * **License:** This modpack project is licensed under the **GNU GPLv3 License**, promoting an open, transparent, and collaborative community modding experience.
+
+---
+
+### 🔗 Official Project Resources
+* **Official Wiki & Documentation:** https://github.com/Adventurehkus/Toast-Revised/wiki
+* **Bug Reports & Issues:** https://github.com/Adventurehkus/Toast-Revised/issues
+* **Community Discussions:** https://github.com/Adventurehkus/Toast-Revised/discussions
 
 ---
 
