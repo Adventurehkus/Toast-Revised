@@ -1,0 +1,105 @@
+{
+  "version": 9,
+  "debugMode": "NONE",
+  "notifMode": "ALL_SINGLE_SOUND",
+  "restyleMode": "ALL_INSTANCES",
+  "sendMode": "PACKET",
+  "soundSource": "PLAYERS",
+  "defaultColor": -15360,
+  "defaultSound": {
+    "version": 1,
+    "enabled": true,
+    "id": "block.note_block.bell",
+    "volume": 1.0,
+    "pitch": 1.0
+  },
+  "detectionMode": "HUD_KNOWN_TAGS",
+  "actionBarDetectionMode": "NONE",
+  "titleDetectionMode": "NONE",
+  "subtitleDetectionMode": "NONE",
+  "senderDetectionMode": "COMBINED",
+  "checkOwnMessages": true,
+  "prefixes": [
+    "/shout",
+    "/me",
+    "!"
+  ],
+  "notifications": [
+    {
+      "version": 8,
+      "enabled": true,
+      "checkOwnMode": "DEFER",
+      "cooldown": 0,
+      "inclusionEnabled": true,
+      "exclusionEnabled": true,
+      "responseEnabled": true,
+      "sound": {
+        "version": 1,
+        "enabled": true,
+        "id": "block.note_block.bell",
+        "volume": 1.0,
+        "pitch": 1.0
+      },
+      "textStyle": {
+        "version": 2,
+        "doColor": true,
+        "color": -15360,
+        "bold": "DISABLED",
+        "italic": "DISABLED",
+        "underlined": "DISABLED",
+        "strikethrough": "DISABLED",
+        "obfuscated": "DISABLED"
+      },
+      "replacementMsg": "",
+      "replacementMsgEnabled": false,
+      "statusBarMsg": "",
+      "statusBarMsgEnabled": false,
+      "titleMsg": "",
+      "titleMsgEnabled": false,
+      "subtitleMsg": "",
+      "subtitleMsgEnabled": false,
+      "toastMsg": "",
+      "toastMsgEnabled": false,
+      "typedMsg": "",
+      "typedMsgEnabled": false,
+      "clipboardMsg": "",
+      "clipboardMsgEnabled": false,
+      "soundSync": true,
+      "delay": 0,
+      "titleFadeIn": 10,
+      "titleStay": 70,
+      "titleFadeOut": 20,
+      "statusBarStay": 60,
+      "toastStay": 100,
+      "triggers": [
+        {
+          "version": 4,
+          "enabled": true,
+          "string": "Profile name",
+          "styleTarget": {
+            "version": 2,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
+          "type": "NORMAL"
+        },
+        {
+          "version": 4,
+          "enabled": true,
+          "string": "Display name",
+          "styleTarget": {
+            "version": 2,
+            "enabled": false,
+            "string": "",
+            "type": "NORMAL"
+          },
+          "type": "NORMAL"
+        }
+      ],
+      "inclusionTriggers": [],
+      "exclusionTriggers": [],
+      "responses": []
+    }
+  ]
+}
