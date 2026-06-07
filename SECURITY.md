@@ -1,4 +1,4 @@
-### 🛡️ Toast Revised: Security Policy
+# 🛡️ Toast Revised: Security Policy
 
 **Our Commitment**
 We take the security of our players, beta testers, and developers seriously. Because Minecraft modpacks run executable Java code, keeping our files clean, verified, and safe is our top priority. This security policy outlines how we protect the **Toast Revised** ecosystem and how you can safely report any potential risks or vulnerabilities you discover.
