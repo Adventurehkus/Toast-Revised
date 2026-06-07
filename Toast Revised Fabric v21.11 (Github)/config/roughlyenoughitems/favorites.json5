@@ -1,7 +1,0 @@
-{
-	"favorites": [
-		"{CategoryID:\"minecraft:plugins/crafting\",Data:{height:3,inputs:[[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[],[],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}],[{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_planks\"}}]],location:\"minecraft:oak_stairs\",outputs:[[{type:\"minecraft:item\",value:{count:4,id:\"minecraft:oak_stairs\"}}]],type:\"minecraft:default/crafting/custom_shaped\",width:3},UUID:\"40f862dd-7f6c-454f-81e2-de54c49b57fa\",type:\"roughlyenoughitems:display\"}"
-	],
-	"hiddenFavorites": [],
-	"displays": []
-}
