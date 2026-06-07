@@ -1,4 +1,4 @@
-### 🌟 Toast Revised: Community Guidelines
+# 🌟 Toast Revised: Community Guidelines
 
 **Our Philosophy**
 Toast Revised is all about creating a polished, seamless experience, and we want our community spaces to reflect that same level of quality. We believe that a great modpack deserves an equally great community. Whether you are here to report a bug, suggest a feature, or help out another player, we expect everyone to keep interactions friendly, constructive, and respectful.
