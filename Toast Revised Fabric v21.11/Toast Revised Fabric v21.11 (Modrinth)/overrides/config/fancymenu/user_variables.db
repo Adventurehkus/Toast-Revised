@@ -1,0 +1,8 @@
+type = user_variables
+
+variable {
+  name = reimaginedintro
+  value = 1
+  reset_on_launch = true
+}
+
