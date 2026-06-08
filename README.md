@@ -47,6 +47,15 @@ Toast Revised is built with absolute respect for the incredible creators in the 
 
 ---
 
+## ⚖️ Project Governance & Safety
+
+To maintain a premium, toxic-free environment and ensure our files remain entirely safe, all players, beta testers, and contributors are expected to follow our official project standards:
+
+* **Community Code of Conduct:** https://github.com/Adventurehkus/Toast-Revised?tab=coc-ov-file
+* **Security & Vulnerability Policy:** https://github.com/Adventurehkus/Toast-Revised?tab=security-ov-file
+
+---
+
 ## 🚀 Official Download & Mirror Channels
 
 For the safest installation experience, always fetch official distribution files directly through our authorized project pages:
