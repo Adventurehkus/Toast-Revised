@@ -12,7 +12,6 @@ The following hand-picked visual and immersive resource packs are configured for
 
 *   **Eating Animation** (`Eating Animation[1.0.1].zip`)
 *   **Nautilus3D** (`Nautilus3D-V2.6.zip`)
-*   **Small Shield & Totem** (`Small_Shield_&_Totem_2.11.zip`)
 *   **Visual Armor Trims** (`visual_armor_trims_4.1.zip`)
 *   **Visual Paintings** (`visual_paintings_2.2.zip`)
 
