@@ -24,10 +24,10 @@ If you are changing configuration files, optimizing scripts, or updating mod man
 
 ### 2. The PR Checklist
 Before you hit submit on your PR, make sure you have:
-* [ ] Forked the repository and created your branch from the latest commit.
-* [ ] Tested the configuration changes locally on your own client to ensure the game boots cleanly.
-* [ ] Included a brief explanation of *why* this change is beneficial to the pack's performance or gameplay.
-* [ ] Confirmed that your modified files do not overwrite user-specific settings (like custom player names or private server IPs).
+* Forked the repository and created your branch from the latest commit.
+* Tested the configuration changes locally on your own client to ensure the game boots cleanly.
+* Included a brief explanation of *why* this change is beneficial to the pack's performance or gameplay.
+* Confirmed that your modified files do not overwrite user-specific settings (like custom player names or private server IPs).
 
 ---
 
