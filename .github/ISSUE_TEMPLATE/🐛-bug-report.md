@@ -1,34 +1,64 @@
 ---
-name: "\U0001F41B Bug Report"
-about: Create a report to help us optimize and fix issues in Toast Revised.
-title: "[BUG]Brief description of the issue"
+name: "Bug Report"
+about: Report a bug or issue with Toast Revised.
+title: "[BUG] Brief description of the issue"
 labels: bug
 assignees: Adventurehkus
+---
+
+# 🐛 Bug Report
+
+## Description
+
+Provide a clear description of the issue.
+
+- What happened?
+- What did you expect to happen instead?
 
 ---
 
-## 📝 Description
-A clear and concise description of what the bug is. What happened, and what did you expect to happen instead?
+## Steps to Reproduce
 
-## 🚶‍♂️ Steps to Reproduce
-Steps to reproduce the behavior:
-1. Launch Toast Revised version ______
-2. Click on '____________'
-3. Do action '____________'
-4. See error
+List the steps needed to reproduce the issue.
 
-## 💻 System & Environment Specs
-To help optimize performance, please share your environment details:
-* **Modpack Version:** (e.g., v21.11, Latest Commit)
-* **Launcher Used:** (e.g., Modrinth, CurseForge, Prism, Vanilla)
-* **Allocated RAM:** (e.g., 4GB, 6GB)
-* **Operating System:** (e.g., Windows 11, Windows 10, Linux)
-* **Hardware (CPU/GPU):** (e.g., Intel i5 / RTX 4050)
+1. Launch Toast Revised.
+2. ...
+3. ...
+4. The issue occurs.
 
-## 📄 Logs & Screenshots
-If the game crashed or displayed an error, please provide the data here:
-* **Crash Log / Latest.log:** [Paste a link to Pastebin, mclogs, or GitHub Gist here]
-* **Screenshots:** [Drag and drop any relevant images or error screens below]
+---
 
-## 🔍 Additional Context
-Add any other context about the problem here (e.g., "This only happens when using e4mc multiplayer connections," or "This started after changing rendering settings").
+## System Information
+
+Please provide the following information:
+
+- **Toast Revised Version:**
+- **Minecraft Version:**
+- **Launcher:** (Prism Launcher, Modrinth App, CurseForge, etc.)
+- **Allocated RAM:**
+- **Operating System:** (Windows, Linux, macOS)
+- **CPU:**
+- **GPU:** *(Optional)*
+
+---
+
+## Logs & Screenshots
+
+If available, include any relevant logs or screenshots.
+
+- Crash log or latest log
+- Error messages
+- Screenshots or videos demonstrating the issue
+
+---
+
+## Additional Information
+
+Include any other details that may help reproduce or diagnose the problem.
+
+Examples include:
+
+- Does the issue only happen in multiplayer?
+- Does it occur with shaders or a specific resource pack enabled?
+- Did it begin after updating Toast Revised or changing settings?
+- Can the issue be reproduced consistently?
