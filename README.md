@@ -2,63 +2,49 @@
 
 ### *Freshly Baked. Smoothly Optimized. Perfectly Balanced.*
 
-**Toast Revised** is a premium, client-side Vanilla+ initiative designed to elevate your Minecraft experience into something incredibly smooth, crisp, and responsive. Instead of overloading your game with heavy content, Toast Revised completely overhauls performance, refines animations, and upgrades user interfaces.
-
-We establish a rock-solid, high-FPS foundation that honors classic Minecraft while delivering the modern utility, social features, and visual polish that players deserve.
+**Toast Revised** is a Vanilla+ modpack that is designed to add QOL, utility, and multiplayer mods that will enhance your game while keeping the game buttery smooth. Instead of overloading your game with heavy content, we overhaul performance, improve animations, and upgrade the user interface.
 
 ---
 
-## 🌟 Our Core Philosophy
+## Core Pillars:
 
-The Toast Revised Standard is built on three core pillars:
+> **Buttery Smooth Performance**
+> Powered with mods such as Sodium, Lithium, and ImmediatelyFast, this modpack makes your game fast and smooth, even with low-end hardware.
 
-> **🧈 Buttery Smooth Performance**
-> Powered by a modern optimization engine featuring Sodium, Lithium, and ImmediatelyFast, this pack maximizes frame rates and minimizes memory usage so your hardware runs flawlessly.
+> **Living, Breathing World**
+> By combining Fresh Animations, Complemetry Shaders, and Immersive Sound Physics. This makes the world feel immersive and brings your Minecraft world to life.
 
-> **🍃 Living, Breathing World**
-> By combining Fresh Animations and immersive sound physics, the world feels incredibly dynamic, bringing entities and environments to life without sacrificing the vanilla aesthetic.
-
-> **🤝 Frictionless Utility & Socials**
-> With advanced tools like Xaero's Maps, Roughly Enough Items, and seamless built-in multiplayer connection features, managing your world and playing with friends is entirely effortless.
+> **Well Done Utility & Socials**
+> With mods such as Xaero's Map and Minimap guiding you throughout the world, e4mc giving you a unbloated way to play with friends, and Roughly Enough Items giving you an easy way to find recipes for your Minecraft projects.
 
 ---
 
-## 🎨 Visual Identity & Interface
+## Visuals & User Interface
 
-We believe Minecraft should look clean, intuitive, and modern. Toast Revised features a meticulously curated selection of 3D resource packs, custom dark-themed menus, and pre-tuned shader configurations that make the game look breathtaking the very first time you click launch.
+Minecraft should look clean, easy to use, and modern. Toast Revised includes many resource packs that help improve the game. Natilus 3D, which finishes the 3D theme that Minecraft started. Rethoughted GUI, which adds a dark UI to Minecraft. As well as pre-made shader configurations that max out your shaders without sacrificing performance.
 
 ---
 
-## ⚖️ Legal & Permissions
+## Legal & Permissions
 
 Toast Revised is built with absolute respect for the incredible creators in the Minecraft modding ecosystem.
 
-* **Credits:** All mod, resource pack, shader, and asset authors are fully credited within our related project documentation and specialized override assets credit in our official changelogs.
-* **Creator Support:** We highly encourage our players to visit the project pages of the individual mod and texture creators to support their brilliant work.
-* **License:** This modpack project is licensed under the **GNU GPLv3 License**, promoting an open, transparent, and collaborative community modding experience.
+* **Credits:** All mod, resource pack, shader, and asset authors are fully credited within the project documentation and the override assets credit in the changelogs.
+* **Creator Support:** We highly encourage you to visit the project pages of the creators to support their work.
+* **License:** This modpack project is licensed under the **GNU GPLv3 License**, promoting an open, transparent, and collaborative community experience.
 
 ---
 
-## 🔗 Official Project Resources
+## Official Project Resources
 
 * **Official Wiki & Documentation:** https://github.com/Adventurehkus/Toast-Revised/wiki
 * **Bug Reports & Issues:** https://github.com/Adventurehkus/Toast-Revised/issues
 * **Community Discussions:** https://discord.gg/NymTWs2ycq
-
----
-
-## ⚖️ Project Governance & Safety
-
-To maintain a premium, toxic-free environment and ensure our files remain entirely safe, all players, beta testers, and contributors are expected to follow our official project standards:
-
-* **Community Code of Conduct:** https://github.com/Adventurehkus/Toast-Revised?tab=coc-ov-file
 * **Security & Vulnerability Policy:** https://github.com/Adventurehkus/Toast-Revised?tab=security-ov-file
 
----
+## Official Download Sites
 
-## 🚀 Official Download & Mirror Channels
-
-For the safest installation experience, always fetch official distribution files directly through our authorized project pages:
+To ensure you have a safe download experience, please only download from the official download sites:
 
 * **Download on Curseforge:** https://curseforge.com/minecraft/modpacks/toast-revised
-* **Download on Modrinth:** https://modrinth.com/modpack/toast-revised
+* **Download on GitHub:** https://github.com/Adventurehkus/Toast-Revised
