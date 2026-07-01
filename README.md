@@ -39,8 +39,8 @@ Toast Revised is built with absolute respect for the incredible creators in the 
 
 * **Official Wiki & Documentation:** https://github.com/Adventurehkus/Toast-Revised/wiki
 * **Bug Reports & Issues:** https://github.com/Adventurehkus/Toast-Revised/issues
-* **Community Discussions:** https://discord.gg/NymTWs2ycq
 * **Security & Vulnerability Policy:** https://github.com/Adventurehkus/Toast-Revised?tab=security-ov-file
+* **Community Discussions:** https://discord.gg/NymTWs2ycq
 
 ## Official Download Sites
 
