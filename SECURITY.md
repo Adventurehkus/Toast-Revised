@@ -1,38 +1,42 @@
-# 🛡️ Toast Revised: Security Policy
+# 🛡️ Toast Revised Security Policy
 
-**Our Commitment**
-We take the security of our players, beta testers, and developers seriously. Because Minecraft modpacks run executable Java code, keeping our files clean, verified, and safe is our top priority. This security policy outlines how we protect the **Toast Revised** ecosystem and how you can safely report any potential risks or vulnerabilities you discover.
+## Commitment to Security
 
----
-
-### 📥 Safe Download Channels
-
-To guarantee you are running a secure, untampered version of the modpack, you should only download official release files from our verified distribution platforms.
-
-We cannot guarantee the safety, integrity, or cleanliness of any files downloaded from unofficial mirrors or third-party re-hosting sites. Always fetch official distribution files directly through our authorized project pages:
-
-* **Modrinth Platform:** [https://modrinth.com/modpack/toast-revised](https://modrinth.com/modpack/toast-revised)
-* **CurseForge Platform:** [https://curseforge.com/minecraft/modpacks/toast-revised](https://curseforge.com/minecraft/modpacks/toast-revised)
-* **GitHub Releases:** [https://github.com/Adventurehkus/Toast-Revised](https://github.com/Adventurehkus/Toast-Revised)
+Keeping players, contributors, and testers safe is a top priority. Because Minecraft modpacks include Java-based software, every release is carefully reviewed to help ensure it is safe, stable, and free from malicious content. This policy explains how Toast Revised is distributed, how to report security concerns, and the practices used to help protect the project.
 
 ---
 
-### 🚨 Reporting a Vulnerability
+## Official Download Sources
 
-If you discover a security vulnerability, a compromised dependency, or an exploit within the modpack, **please do not open a public GitHub Issue.** Publicly disclosing a security flaw allows it to be exploited before we have a chance to patch it.
+To ensure a safe installation, only download Toast Revised from the official project pages.
+Files downloaded from third-party websites cannot be verified and may not be safe.
 
-Instead, please handle reports responsibly by following these steps:
-
-1. **Keep it Private:** Draft a detailed description of the vulnerability, including how to reproduce it or the specific file affected.
-2. **Contact Leadership:** Reach out privately to the project lead (Adventurehkus) via a private GitHub message, direct developer contact, or our designated private reporting channel.
-3. **Await the Patch:** Give us time to investigate the issue, verify the threat, and roll out a clean update to protect the community.
+* **Modrinth:** https://modrinth.com/modpack/toast-revised
+* **CurseForge:** https://curseforge.com/minecraft/modpacks/toast-revised
+* **GitHub Releases:** https://github.com/Adventurehkus/Toast-Revised
 
 ---
 
-### 🛠️ Our Protective Standards
+## Reporting a Security Issue
 
-We maintain a rigorous development workflow to ensure every release cycle remains safe:
+If a security vulnerability, compromised file, or exploit is discovered, **please do not create a public GitHub Issue.** Publicly disclosing a vulnerability before it is resolved could put users at risk.
 
-* **Automated Screening:** We rely on Modrinth and CurseForge’s native, automated malware scanning pipelines to verify every uploaded compressed file and configuration manifest.
-* **Direct Sourcing:** We only bundle mods obtained directly from official, verified creators to eliminate the risk of supply-chain attacks or injected malware.
-* **Proactive Patching:** When critical vulnerabilities are discovered in the broader Minecraft modding ecosystem (such as upstream Java or platform exploits), we prioritize rolling out a hotfix immediately.
+Instead, follow these steps:
+
+1. **Document the Issue:** Include a clear description of the problem, affected files, and steps to reproduce it if possible.
+2. **Report It Privately:** Contact the project maintainer (Adventurehkus) through GitHub or another designated private reporting channel.
+3. **Allow Time for Review:** Reports will be investigated as quickly as possible. If confirmed, a fix will be developed and released before additional details are shared publicly.
+
+---
+
+## Security Practices
+
+Every Toast Revised release follows a process designed to improve security and reliability.
+
+* **Automated Scanning:** Project files are checked using automated tools to help identify malicious content or unexpected changes.
+* **Trusted Sources:** Mods and dependencies are downloaded from their official project pages whenever possible.
+* **Timely Updates:** Security fixes and important dependency updates are included in new releases as vulnerabilities become known.
+
+---
+
+Thank you for helping keep Toast Revised safe for everyone in the community.
