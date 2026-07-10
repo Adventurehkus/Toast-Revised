@@ -1,3 +1,5 @@
+# Toast Revised has been archived. Toast Revised will not receive any further updates unless the author decides to unarchive the project.
+
 # 🍞 The Toast Revised Project
 
 ### *Freshly Baked. Smoothly Optimized. Perfectly Balanced.*
